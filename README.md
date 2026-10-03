@@ -4,3 +4,4 @@
 - comando para commit: git commit -m "mensaje"
 - para subir cambios al repo remoto: git push origin main.
 - Prueba Marisa terminal
+- prueba pull request
